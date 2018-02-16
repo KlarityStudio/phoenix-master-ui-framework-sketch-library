@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B7995E4D-1FA7-4AB1-9B48-914DB56256B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 16,
+    "x": 4,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3E38B590-98DB-4B04-B0A5-E1F532D84C2F"
+    },
+    {
+      "class": "shapePath",
+      "id": "C270AC8C-5A91-40D5-A7CE-D3C49D16C8FF"
+    },
+    {
+      "class": "shapePath",
+      "id": "26F06195-C196-4996-90B5-FD95FECA8EC7"
+    },
+    {
+      "class": "shapePath",
+      "id": "C67AE1A6-9A9D-4DB7-824D-794C2539BA12"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB27010B-D20D-41FE-8D39-6D42AC9C399C"
+    },
+    {
+      "class": "shapePath",
+      "id": "BCC94F52-CE31-403E-AAED-BBA14366DCA4"
+    }
+  ],
+  "name": "toilet",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

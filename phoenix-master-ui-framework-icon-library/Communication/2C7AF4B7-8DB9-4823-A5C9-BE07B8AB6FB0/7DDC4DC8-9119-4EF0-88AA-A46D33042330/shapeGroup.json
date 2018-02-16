@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "7DDC4DC8-9119-4EF0-88AA-A46D33042330",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 9,
+    "x": 7.5,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "ABC39EC2-97CC-4753-A970-298F223D1B0E"
+    },
+    {
+      "class": "shapePath",
+      "id": "FC1FF93F-7D37-44C3-98D3-5CA3FB0E033C"
+    },
+    {
+      "class": "shapePath",
+      "id": "6475734A-42E6-4AC3-8643-F79FD484B9F6"
+    },
+    {
+      "class": "shapePath",
+      "id": "690CF230-B304-4792-957A-6D0BF6DD0AF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "2578BED9-0BCE-4367-88A3-362ED8260CE4"
+    }
+  ],
+  "name": "USB_flash_drive",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

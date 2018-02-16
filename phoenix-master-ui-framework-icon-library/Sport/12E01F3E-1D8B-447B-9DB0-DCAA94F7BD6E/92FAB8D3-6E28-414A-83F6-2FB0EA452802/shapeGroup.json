@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "92FAB8D3-6E28-414A-83F6-2FB0EA452802",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 11,
+    "x": 6.5,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "93509843-FD0D-442C-B477-89D85064576E"
+    },
+    {
+      "class": "shapePath",
+      "id": "5CAED9C7-5AC6-4456-8C2B-56BAB60605F2"
+    },
+    {
+      "class": "shapePath",
+      "id": "A99392BA-ACD2-4C87-95FF-CC153F5AF16F"
+    },
+    {
+      "class": "shapePath",
+      "id": "4E1A9694-37BB-4E24-BF11-65D6D54F4113"
+    },
+    {
+      "class": "shapePath",
+      "id": "83FA28D1-CF58-4451-93ED-608D91BD98A8"
+    },
+    {
+      "class": "shapePath",
+      "id": "C39E37E5-3D3A-428F-8441-6BED8CDBE28F"
+    }
+  ],
+  "name": "chess_king",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

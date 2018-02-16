@@ -1,0 +1,90 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "9FDBE35E-A548-44C9-8357-606BE1CF0133",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 13,
+    "width": 18,
+    "x": 3,
+    "y": 5.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0C25E675-2E22-4AEA-94D6-EC09FBA55F65"
+    },
+    {
+      "class": "shapePath",
+      "id": "A2F43D07-6B6D-4499-AD26-AD9BA26ECCD5"
+    },
+    {
+      "class": "shapePath",
+      "id": "4B299784-EE0F-4D20-9043-47B51F11BA1D"
+    },
+    {
+      "class": "shapePath",
+      "id": "F983080B-8BEF-4683-A09D-C4FA24E4BE5B"
+    },
+    {
+      "class": "shapePath",
+      "id": "E2B1C92D-08FB-4821-B1FA-FB0A0FD6ED99"
+    },
+    {
+      "class": "shapePath",
+      "id": "6E849E4E-2814-48C6-AB55-8C63B222CAFC"
+    },
+    {
+      "class": "shapePath",
+      "id": "327BA678-9412-48E0-A11A-649C44556AB8"
+    }
+  ],
+  "name": "soccer_field",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

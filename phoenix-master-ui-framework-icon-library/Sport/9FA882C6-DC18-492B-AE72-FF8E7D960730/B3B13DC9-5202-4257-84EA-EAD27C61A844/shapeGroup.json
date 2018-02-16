@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "B3B13DC9-5202-4257-84EA-EAD27C61A844",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "97E1FE87-7809-4F70-9A0F-40285D853F3E"
+    },
+    {
+      "class": "shapePath",
+      "id": "DA55B4F7-5520-4B4C-BFF0-65E8769755D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "ECA9F942-499A-4EE7-A484-6A1CB9EDC1C8"
+    },
+    {
+      "class": "shapePath",
+      "id": "2047BCC3-A8A1-436D-AB47-20CAE07BDD3B"
+    },
+    {
+      "class": "shapePath",
+      "id": "DD49208D-AEEA-4C49-8895-DC732C2B0472"
+    }
+  ],
+  "name": "kayak",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

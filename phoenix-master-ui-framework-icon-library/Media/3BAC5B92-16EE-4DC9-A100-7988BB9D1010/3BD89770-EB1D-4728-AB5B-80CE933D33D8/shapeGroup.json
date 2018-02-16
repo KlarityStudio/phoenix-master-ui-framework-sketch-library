@@ -1,0 +1,78 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "3BD89770-EB1D-4728-AB5B-80CE933D33D8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 12.99999061731029,
+    "width": 17.99988964922325,
+    "x": 3.000055175388376,
+    "y": 5.500004691344854
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "173BBC03-AF37-4366-AC55-DFEE0D1E5F4B"
+    },
+    {
+      "class": "shapePath",
+      "id": "BFFAB61D-A327-4071-96A2-2899F419006B"
+    },
+    {
+      "class": "shapePath",
+      "id": "3983AE35-DFB6-4391-A98D-C21F2A1DEABB"
+    },
+    {
+      "class": "shapePath",
+      "id": "2BEFDC1F-AA93-41EF-ADA1-D4C8DA8F8685"
+    }
+  ],
+  "name": "drum",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

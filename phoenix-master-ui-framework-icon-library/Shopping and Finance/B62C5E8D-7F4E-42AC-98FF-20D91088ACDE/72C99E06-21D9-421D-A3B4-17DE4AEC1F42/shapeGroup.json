@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "72C99E06-21D9-421D-A3B4-17DE4AEC1F42",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 13,
+    "width": 18,
+    "x": 3,
+    "y": 5.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0DA556E0-7EC3-4502-A873-4A05644AA2CC"
+    },
+    {
+      "class": "shapePath",
+      "id": "FB8E6755-DC5F-47D5-A877-9FE152094984"
+    },
+    {
+      "class": "shapePath",
+      "id": "A41963F0-2D8F-4D1A-8F35-CEDFEBFAF639"
+    },
+    {
+      "class": "shapePath",
+      "id": "C2E3FC11-030F-4439-B99B-CDAFF12BA737"
+    },
+    {
+      "class": "shapePath",
+      "id": "CA55CC62-2C01-4EF2-B151-89807ACB6C7D"
+    }
+  ],
+  "name": "bank_card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

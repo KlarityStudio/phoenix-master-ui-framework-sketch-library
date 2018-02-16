@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "FE8F190D-71D4-4E90-8400-682D892F838C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 17,
+    "x": 3.5,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5DC6335D-7F97-4470-99BF-E195BEF6572C"
+    },
+    {
+      "class": "shapePath",
+      "id": "5E0B2B82-A2C7-4965-B1FA-9E4BA49CE8A2"
+    },
+    {
+      "class": "shapePath",
+      "id": "8E76A235-F458-4D98-BDF7-745261BA363E"
+    },
+    {
+      "class": "shapePath",
+      "id": "A52F2FA8-1767-4FA8-8D21-58A3FEF5847A"
+    },
+    {
+      "class": "shapePath",
+      "id": "CAD6C50C-580B-4000-AD9F-8C851FF9D695"
+    }
+  ],
+  "name": "alarm_snooze",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

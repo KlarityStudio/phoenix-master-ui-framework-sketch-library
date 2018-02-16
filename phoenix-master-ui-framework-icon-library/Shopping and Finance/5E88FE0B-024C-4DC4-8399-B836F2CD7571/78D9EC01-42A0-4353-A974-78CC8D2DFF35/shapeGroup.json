@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "78D9EC01-42A0-4353-A974-78CC8D2DFF35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 15,
+    "width": 18,
+    "x": 3,
+    "y": 4.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "ED46AB65-B938-4A98-85CC-9EE59FC9BC0F"
+    },
+    {
+      "class": "shapePath",
+      "id": "491B84AE-DFED-47B2-ABA1-E1F6BB5D5D36"
+    },
+    {
+      "class": "shapePath",
+      "id": "68E365EB-E230-4BCB-BC92-F99919AC8E76"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D08E09F-C79C-4EA9-9F7D-AA73354E12CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "D09254D9-83C4-467A-805B-BA7907AAAD2F"
+    }
+  ],
+  "name": "ATM_money",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

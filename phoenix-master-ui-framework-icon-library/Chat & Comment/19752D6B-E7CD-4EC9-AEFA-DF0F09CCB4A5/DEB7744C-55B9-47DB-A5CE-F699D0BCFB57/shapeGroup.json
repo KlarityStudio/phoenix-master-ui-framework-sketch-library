@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "DEB7744C-55B9-47DB-A5CE-F699D0BCFB57",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 16,
+    "x": 4,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1FC860EF-D2B9-4100-B932-D8947E82A874"
+    },
+    {
+      "class": "shapePath",
+      "id": "9EB8F015-0897-4798-AE76-80FBDEA4B80E"
+    },
+    {
+      "class": "shapePath",
+      "id": "642CF397-EC94-48FF-9B86-A7B0CF9FBC1D"
+    },
+    {
+      "class": "shapePath",
+      "id": "06BBAE45-E65C-44EF-BE75-A865484ED8B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "0AF299DA-A8DB-40BE-8299-E8FF5750C2DF"
+    }
+  ],
+  "name": "chat_edit",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

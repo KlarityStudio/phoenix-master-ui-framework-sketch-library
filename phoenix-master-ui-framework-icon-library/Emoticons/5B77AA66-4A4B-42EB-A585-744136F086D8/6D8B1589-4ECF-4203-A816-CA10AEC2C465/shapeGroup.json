@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6D8B1589-4ECF-4203-A816-CA10AEC2C465",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "36FCCAC0-C058-41FC-AD36-11DF57D2590C"
+    },
+    {
+      "class": "shapePath",
+      "id": "D53EAC28-9926-4F86-90F0-E4298EBE9F8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "4E60E134-1873-4CDF-B9EC-9A754916A9AC"
+    },
+    {
+      "class": "shapePath",
+      "id": "A3B4387D-8333-41B3-AAB1-30022D150A0D"
+    },
+    {
+      "class": "shapePath",
+      "id": "1A63A818-BB94-4A1F-A592-2FB6E2C1E4D7"
+    }
+  ],
+  "name": "zombie",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

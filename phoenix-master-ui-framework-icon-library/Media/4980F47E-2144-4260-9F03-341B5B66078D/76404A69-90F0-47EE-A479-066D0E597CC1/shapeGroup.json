@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "76404A69-90F0-47EE-A479-066D0E597CC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6F46F11A-89D9-4B3F-8B30-76ECFCB41A7E"
+    },
+    {
+      "class": "shapePath",
+      "id": "DC809277-A191-4028-B11B-6E92ED9F3CF5"
+    },
+    {
+      "class": "shapePath",
+      "id": "2F5E678E-176B-4486-B148-E7A3EBC86B8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE19CEC1-6E5B-497D-B849-966D0DD25428"
+    },
+    {
+      "class": "shapePath",
+      "id": "7409C084-20F5-42B2-B78E-4FCC3CFD373C"
+    },
+    {
+      "class": "shapePath",
+      "id": "A3775264-BB92-4688-B8E2-D770ACB13BB0"
+    }
+  ],
+  "name": "photo_block",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

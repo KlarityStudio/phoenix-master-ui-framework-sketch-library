@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "6EEDDB81-8451-46D0-B6ED-8A42497CA43B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 9,
+    "x": 7.5,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5A3D8832-3AD8-4A9D-9086-69C690458EB3"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D77B8CE-B220-4AED-93A3-32B5A2A65CAB"
+    },
+    {
+      "class": "shapePath",
+      "id": "1065A940-E582-41A8-9F29-08984E9721A3"
+    },
+    {
+      "class": "shapePath",
+      "id": "4D7627AF-0944-4674-B7DA-2CFD6682B09F"
+    },
+    {
+      "class": "shapePath",
+      "id": "B8CC0464-B28A-4B6D-991B-55BAF9DDAFD5"
+    }
+  ],
+  "name": "baseball",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

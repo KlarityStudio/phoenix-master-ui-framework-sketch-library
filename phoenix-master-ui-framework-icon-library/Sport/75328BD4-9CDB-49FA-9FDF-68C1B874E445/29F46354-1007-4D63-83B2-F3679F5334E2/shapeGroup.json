@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "29F46354-1007-4D63-83B2-F3679F5334E2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 11,
+    "x": 6.5,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "A0E1AF19-A160-466C-9179-0A27F40828C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "BA1BC0B8-06EB-4CE1-AA09-178CCB06612D"
+    },
+    {
+      "class": "shapePath",
+      "id": "B450C4A7-1BB6-4887-A3F6-6741AFB37F70"
+    },
+    {
+      "class": "shapePath",
+      "id": "83387EAC-6456-4A52-8732-82A61743FDE6"
+    },
+    {
+      "class": "shapePath",
+      "id": "8CAA57C8-3B35-44B7-B3E1-F902BA563C6E"
+    }
+  ],
+  "name": "chess_pawn",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}

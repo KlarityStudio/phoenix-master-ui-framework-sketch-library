@@ -1,0 +1,82 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "A1EFFE0A-168A-4953-9D48-1A199E81E00C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 11,
+    "width": 18,
+    "x": 3,
+    "y": 6.5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D556AC8F-9993-4FD0-8C6A-328B3B0909CA"
+    },
+    {
+      "class": "shapePath",
+      "id": "180DDFF4-F5A3-4C9E-9185-9149E28E828F"
+    },
+    {
+      "class": "shapePath",
+      "id": "F307DFAD-32C5-4EBB-A837-40B5683591B1"
+    },
+    {
+      "class": "shapePath",
+      "id": "7A28D697-AA32-444D-9CE1-5A1490B1DF43"
+    },
+    {
+      "class": "shapePath",
+      "id": "6A6D5337-4502-456C-8524-B0B5091BAB8F"
+    }
+  ],
+  "name": "battery_full",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 0
+}
