@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F092AE1B-2B1C-4BC2-8F51-5C7474685BE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 93,
+    "width": 160,
+    "x": 0,
+    "y": 443
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 35,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 6,
+  "name": "Nav/Fleet/Item",
+  "nameIsFixed": false,
+  "originalObjectID": "D7B6DD54-D4D9-4B0F-8EB9-2D20AB81A50C",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C198E33E-D1E9-44A6-B777-AE97D13BAC61_stringValue",
+      "value": "H"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7848641B-FEDF-4818-BA30-2FB3A4D18EF4_symbolID",
+      "value": "2D2D06E2-3F53-4D72-AB44-60EC031D53B8"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4461E726-94F8-4AF0-A56A-821D24B1211C_stringValue",
+      "value": "VW Polo TSI Hatch"
+    }
+  ],
+  "overrides": {
+    "4461E726-94F8-4AF0-A56A-821D24B1211C": "VW Polo TSI Hatch",
+    "7848641B-FEDF-4818-BA30-2FB3A4D18EF4": {
+      "symbolID": "2D2D06E2-3F53-4D72-AB44-60EC031D53B8"
+    },
+    "C198E33E-D1E9-44A6-B777-AE97D13BAC61": "H"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "1D06B5D0-1207-4AFD-B538-E1E640A32D2C",
+  "verticalSpacing": 0
+}

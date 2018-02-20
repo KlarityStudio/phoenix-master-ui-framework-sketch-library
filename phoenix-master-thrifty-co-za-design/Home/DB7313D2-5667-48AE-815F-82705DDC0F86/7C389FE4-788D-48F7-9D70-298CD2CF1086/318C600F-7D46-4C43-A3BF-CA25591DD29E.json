@@ -1,0 +1,63 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "318C600F-7D46-4C43-A3BF-CA25591DD29E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 12,
+    "width": 146,
+    "x": 18,
+    "y": 14.5
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 0,
+  "masterInfluenceEdgeMaxYPadding": 2,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 3,
+  "name": "Text/Button/Dark/Medium (14px) - Centered",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "6E8CD8DA-6233-4105-8C3D-6D8A1FA11165_stringValue",
+      "value": "BUTTON"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0F753C4-361A-4176-8100-C8185CE8BDA0",
+      "overrideName": "41E00F7A-1CDC-435A-A52D-A80E7C52409A_stringValue",
+      "value": "BOOK"
+    }
+  ],
+  "overrides": {
+    "41E00F7A-1CDC-435A-A52D-A80E7C52409A": "BOOK",
+    "6E8CD8DA-6233-4105-8C3D-6D8A1FA11165": "BUTTON"
+  },
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "097F30FA-67F2-4EF6-AC93-5644903D8CA4",
+  "verticalSpacing": 0
+}

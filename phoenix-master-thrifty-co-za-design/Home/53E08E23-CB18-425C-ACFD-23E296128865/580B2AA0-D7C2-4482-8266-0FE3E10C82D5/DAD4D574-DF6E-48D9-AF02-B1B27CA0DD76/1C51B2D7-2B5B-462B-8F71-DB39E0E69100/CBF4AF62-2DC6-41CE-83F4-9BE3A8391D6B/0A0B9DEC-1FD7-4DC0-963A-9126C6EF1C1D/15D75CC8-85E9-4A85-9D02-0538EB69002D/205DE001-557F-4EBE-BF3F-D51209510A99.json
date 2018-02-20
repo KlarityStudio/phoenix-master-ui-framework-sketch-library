@@ -1,0 +1,71 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "205DE001-557F-4EBE-BF3F-D51209510A99",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 93,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 35,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 6,
+  "name": "Nav/Fleet/Item",
+  "nameIsFixed": false,
+  "originalObjectID": "94D5CB2C-9367-4D00-9567-7D95FD4C2315",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "16B4B44D-047D-4135-ADE4-D96BD2727DE5_stringValue",
+      "value": "X"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5416F70C-341D-4EB5-89FA-0F40529D423A_symbolID",
+      "value": "F7556123-9F66-4117-82F8-4937A1C5A838"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1BB631B-FD5E-4B6D-B10E-A17A9F30CCC0_stringValue",
+      "value": "BMW 3 Series"
+    }
+  ],
+  "overrides": {
+    "16B4B44D-047D-4135-ADE4-D96BD2727DE5": "X",
+    "5416F70C-341D-4EB5-89FA-0F40529D423A": {
+      "symbolID": "F7556123-9F66-4117-82F8-4937A1C5A838"
+    },
+    "A1BB631B-FD5E-4B6D-B10E-A17A9F30CCC0": "BMW 3 Series"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8B2AADAD-9FE9-447B-BC00-9A3F83A9BF1B",
+  "verticalSpacing": 0
+}

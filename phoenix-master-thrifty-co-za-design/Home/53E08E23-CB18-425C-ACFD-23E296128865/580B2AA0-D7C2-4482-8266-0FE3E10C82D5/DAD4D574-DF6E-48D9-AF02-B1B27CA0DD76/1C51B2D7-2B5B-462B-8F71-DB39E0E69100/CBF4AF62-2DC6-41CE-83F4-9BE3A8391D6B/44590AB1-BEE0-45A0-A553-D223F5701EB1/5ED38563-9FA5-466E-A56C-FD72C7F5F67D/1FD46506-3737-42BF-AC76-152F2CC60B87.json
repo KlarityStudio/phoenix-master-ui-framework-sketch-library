@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "1FD46506-3737-42BF-AC76-152F2CC60B87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 93,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 35,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 6,
+  "name": "Nav/Fleet/Item",
+  "nameIsFixed": false,
+  "originalObjectID": "94D5CB2C-9367-4D00-9567-7D95FD4C2315",
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "747B37A4-8C8E-401D-99E0-03902B9A50C5",
+      "overrideName": "16B4B44D-047D-4135-ADE4-D96BD2727DE5_stringValue",
+      "value": "H"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE1E76F8-550B-4F4E-9153-30023F90ED53",
+      "overrideName": "5416F70C-341D-4EB5-89FA-0F40529D423A_symbolID",
+      "value": "8A514AF1-8F52-4F9A-B5E1-5502B1D4C04F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7360793A-3277-4AFD-BE6E-5ECA4E4C9739",
+      "overrideName": "A1BB631B-FD5E-4B6D-B10E-A17A9F30CCC0_stringValue",
+      "value": "VW Polo TSI Hatch"
+    }
+  ],
+  "overrides": {
+    "16B4B44D-047D-4135-ADE4-D96BD2727DE5": "H",
+    "5416F70C-341D-4EB5-89FA-0F40529D423A": {
+      "symbolID": "8A514AF1-8F52-4F9A-B5E1-5502B1D4C04F"
+    },
+    "A1BB631B-FD5E-4B6D-B10E-A17A9F30CCC0": "VW Polo TSI Hatch"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "8B2AADAD-9FE9-447B-BC00-9A3F83A9BF1B",
+  "verticalSpacing": 0
+}
