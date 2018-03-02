@@ -66,19 +66,19 @@
     },
     {
       "class": "symbolMaster",
+      "id": "5C13ED54-AC13-48A5-A6EE-13982183417B"
+    },
+    {
+      "class": "symbolMaster",
       "id": "F3F9336F-96F2-4805-8F76-C530E3961CA4"
     },
     {
       "class": "symbolMaster",
-      "id": "E5ECB9B1-997D-49AC-8FA0-354EF7C1FCE3"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "A41D2AB8-ADC3-485A-B0AE-371D707D05A4"
-    },
-    {
-      "class": "symbolMaster",
       "id": "0997F95F-2243-43DF-B735-38B5E9F0923E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1634826A-2487-4516-9FE7-094228F9CCDD"
     },
     {
       "class": "symbolMaster",
@@ -87,22 +87,6 @@
     {
       "class": "symbolMaster",
       "id": "C3427821-22CF-4B0B-8874-F9733D283CB7"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "1634826A-2487-4516-9FE7-094228F9CCDD"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "F55DE5C3-81DC-4DD5-8FA4-A71B9A579165"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "5C13ED54-AC13-48A5-A6EE-13982183417B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4BBF3D40-2AE8-4FEA-A1EF-EC556732D163"
     },
     {
       "class": "symbolMaster",
@@ -171,6 +155,22 @@
     {
       "class": "symbolMaster",
       "id": "D7B6DD54-D4D9-4B0F-8EB9-2D20AB81A50C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9D1D596C-0E26-4E2C-BFB6-03843174B44B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C9F572FF-F758-4DC9-B5BE-D2710087211B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "3EB0B045-64A9-4B15-A3CA-BADD8463DADD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CCF02CBC-2621-446C-8382-08EBED2DC48E"
     }
   ],
   "name": "Symbols",
@@ -187,6 +187,7 @@
   },
   "userInfo": {
     "com.invision.prototype": {
+      "includeHotspotsWhenSyncing": 1,
       "lastUsedGestureID": 7
     }
   },

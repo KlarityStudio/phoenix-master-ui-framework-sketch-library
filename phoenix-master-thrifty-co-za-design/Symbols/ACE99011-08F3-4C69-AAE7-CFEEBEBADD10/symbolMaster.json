@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8533,
+  "changeIdentifier": 9372,
   "do_objectID": "ACE99011-08F3-4C69-AAE7-CFEEBEBADD10",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 812,
     "width": 375,
-    "x": 6152,
-    "y": 0
+    "x": 1162,
+    "y": 1724
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -55,14 +55,6 @@
     {
       "class": "shapeGroup",
       "id": "0C803F85-9E1F-42D9-AB6E-9B157BB09B6F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A27E751B-8A2C-4B1C-847E-74BDDD65A3B6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C6562EC1-5059-4FCD-BAB8-BB7B92842923"
     },
     {
       "class": "bitmap",
@@ -93,10 +85,6 @@
       "id": "4AEEE802-A0F7-47D4-B302-BCA6CA217934"
     },
     {
-      "class": "symbolInstance",
-      "id": "4C72E77A-8A29-4C56-B541-51C831BF99C0"
-    },
-    {
       "class": "shapeGroup",
       "id": "E20EBE47-B567-466A-832F-182E60A42619"
     },
@@ -111,9 +99,21 @@
     {
       "class": "shapeGroup",
       "id": "F6B19C71-787C-458B-A0DF-E1CC8F77C0A7"
+    },
+    {
+      "class": "group",
+      "id": "3D0D0231-610C-483B-BA0F-643FD10434DD"
+    },
+    {
+      "class": "text",
+      "id": "A572A68C-E834-4EB9-B9AD-878D0932661F"
+    },
+    {
+      "class": "group",
+      "id": "6F815E57-2D01-404D-96D3-936E99C78A87"
     }
   ],
-  "name": "Widget/Booking/State/SelectPickup-Selected",
+  "name": "Widget/Booking/State/DateTime3",
   "nameIsFixed": true,
   "originalObjectID": "ACE99011-08F3-4C69-AAE7-CFEEBEBADD10",
   "resizesContent": false,

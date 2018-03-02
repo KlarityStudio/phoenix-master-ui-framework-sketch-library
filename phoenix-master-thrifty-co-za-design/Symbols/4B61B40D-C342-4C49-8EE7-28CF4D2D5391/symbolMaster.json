@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10689,
+  "changeIdentifier": 12056,
   "do_objectID": "4B61B40D-C342-4C49-8EE7-28CF4D2D5391",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 812,
     "width": 375,
-    "x": 2827,
-    "y": 0
+    "x": 1162,
+    "y": 6034
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -62,14 +62,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "9BE2E596-4E8B-46C5-A912-BADA73FC0DCE"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7AB2C047-A374-482C-BA4F-3D0337831D00"
-    },
-    {
-      "class": "symbolInstance",
       "id": "90151D96-D8B7-45C7-8EE0-F490790F4423"
     },
     {
@@ -79,9 +71,17 @@
     {
       "class": "group",
       "id": "0E75E62B-FB9D-46A7-90E3-1237F86A36C4"
+    },
+    {
+      "class": "text",
+      "id": "654C77B5-6302-4853-8AF3-277A01F04D79"
+    },
+    {
+      "class": "group",
+      "id": "BCAEFEA9-CD8F-4C23-8924-6D36890F96C3"
     }
   ],
-  "name": "Widget/Booking/State/SelectLocation--Typea2",
+  "name": "Widget/Booking/State/Location2",
   "nameIsFixed": true,
   "originalObjectID": "4B61B40D-C342-4C49-8EE7-28CF4D2D5391",
   "resizesContent": false,

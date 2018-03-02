@@ -5,6 +5,15 @@
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -25,7 +34,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapePath",
@@ -34,6 +43,14 @@
     {
       "class": "shapePath",
       "id": "3040BC8E-0313-4C32-9AD8-EB0F32A569D6"
+    },
+    {
+      "class": "shapePath",
+      "id": "122CB691-1744-430C-964A-EDFB7524347E"
+    },
+    {
+      "class": "shapePath",
+      "id": "A63B6196-B046-41AB-94A1-6638B65F9741"
     }
   ],
   "name": "Shape",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10688,
+  "changeIdentifier": 12259,
   "do_objectID": "F6A5C0D4-4951-40D1-8C2D-B282B5142A8F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 812,
     "width": 375,
-    "x": 2352,
-    "y": 0
+    "x": 1162,
+    "y": 5172
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",
@@ -59,14 +59,6 @@
     {
       "class": "bitmap",
       "id": "F5D2C126-64C5-4E1F-8024-A6D927B42A2D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "1FD7C448-A911-467A-B416-B472998154C2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D2A5194C-D077-4794-89EC-B7C234834682"
     },
     {
       "class": "symbolInstance",
@@ -79,9 +71,13 @@
     {
       "class": "shapeGroup",
       "id": "228F5F46-BDB3-436F-A6CC-43E932733C08"
+    },
+    {
+      "class": "group",
+      "id": "351A8315-E6E6-4FEF-BF5D-1B80F01F7FE7"
     }
   ],
-  "name": "Widget/Booking/State/SelectLocation--TypeC1",
+  "name": "Widget/Booking/State/Location1",
   "nameIsFixed": true,
   "originalObjectID": "F6A5C0D4-4951-40D1-8C2D-B282B5142A8F",
   "resizesContent": false,

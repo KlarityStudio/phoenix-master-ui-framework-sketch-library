@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10994,
+  "changeIdentifier": 13427,
   "do_objectID": "1634826A-2487-4516-9FE7-094228F9CCDD",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,8 +32,8 @@
     "constrainProportions": false,
     "height": 812,
     "width": 375,
-    "x": 7102,
-    "y": 0
+    "x": 1162,
+    "y": 862
   },
   "hasBackgroundColor": true,
   "hasClickThrough": true,
@@ -50,7 +50,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -65,19 +65,15 @@
       "id": "FE08E2A3-B629-426C-823F-E602A8C73738"
     },
     {
-      "class": "symbolInstance",
-      "id": "26E37678-2EA9-44FB-BC5E-DD4D469A8B43"
-    },
-    {
       "class": "group",
       "id": "E64D9D50-C0A0-48FC-A62C-9D5766E63B0B"
     },
     {
-      "class": "symbolInstance",
-      "id": "393FA572-380A-4225-83FB-EEF3F790D5F9"
+      "class": "group",
+      "id": "9DB08562-2522-4D4F-9067-901F6D8CAA83"
     }
   ],
-  "name": "Widget/Booking/State/PickupTime",
+  "name": "Widget/Booking/State/DateTime2",
   "nameIsFixed": true,
   "originalObjectID": "1634826A-2487-4516-9FE7-094228F9CCDD",
   "resizesContent": false,

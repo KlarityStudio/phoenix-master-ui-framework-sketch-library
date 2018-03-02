@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 8204,
+  "changeIdentifier": 9539,
   "do_objectID": "0997F95F-2243-43DF-B735-38B5E9F0923E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -32,7 +32,7 @@
     "constrainProportions": false,
     "height": 812,
     "width": 375,
-    "x": 5677,
+    "x": 1162,
     "y": 0
   },
   "hasBackgroundColor": true,
@@ -50,19 +50,11 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "E9A8EE81-C76E-4DD1-BECC-CEB3CFC3213E"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0938A15A-53A3-4B99-A6C7-086CD3D74AC9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D31184CA-03B9-4943-9196-E8A42BA23364"
     },
     {
       "class": "bitmap",
@@ -93,15 +85,19 @@
       "id": "32329A0C-9BF9-480B-9DC3-DC7EEDDDECBC"
     },
     {
-      "class": "symbolInstance",
-      "id": "2F42CE20-9E7C-47BF-BCE6-5917C038E738"
-    },
-    {
       "class": "shapeGroup",
       "id": "ABB4736A-30A8-4B6F-9534-C228EE80B6E2"
+    },
+    {
+      "class": "group",
+      "id": "558A847B-B971-4ED8-B148-561D354BDF9B"
+    },
+    {
+      "class": "group",
+      "id": "384E2D22-C6CA-4F5F-B393-8BCBFC0E9F71"
     }
   ],
-  "name": "Widget/Booking/State/SelectPickup",
+  "name": "Widget/Booking/State/DateTime1",
   "nameIsFixed": true,
   "originalObjectID": "0997F95F-2243-43DF-B735-38B5E9F0923E",
   "resizesContent": false,
