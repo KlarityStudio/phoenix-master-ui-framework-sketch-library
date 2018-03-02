@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "do_objectID": "5B9A6BFC-5A90-4B83-A8BF-9373B46005DB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 763,
+    "width": 375,
+    "x": 0,
+    "y": 38
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "5C82E469-8CB4-4DBC-BBCA-C86FF0EC9972"
+    },
+    {
+      "class": "group",
+      "id": "C254F6F9-F3C1-4B49-811F-A5A2C1C75754"
+    },
+    {
+      "class": "bitmap",
+      "id": "95EAFB54-6651-4946-BAC2-C3AD9B30ADC2"
+    },
+    {
+      "class": "text",
+      "id": "0954EED3-544E-407F-8504-3B9895C028BE"
+    },
+    {
+      "class": "group",
+      "id": "F0F84DF4-CE35-4FEE-95FC-27F9405D87F7"
+    }
+  ],
+  "name": "Widget/Booking/State/Start",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 164,
+        "color": {
+          "_class": "color",
+          "alpha": 0.3,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
