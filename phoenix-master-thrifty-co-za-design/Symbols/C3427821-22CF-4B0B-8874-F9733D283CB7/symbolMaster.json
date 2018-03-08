@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 10924,
+  "changeIdentifier": 11032,
   "do_objectID": "C3427821-22CF-4B0B-8874-F9733D283CB7",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,6 +48,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 2,
@@ -108,6 +109,13 @@
   "name": "Widget/Booking/State/DateTime4",
   "nameIsFixed": true,
   "originalObjectID": "C3427821-22CF-4B0B-8874-F9733D283CB7",
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

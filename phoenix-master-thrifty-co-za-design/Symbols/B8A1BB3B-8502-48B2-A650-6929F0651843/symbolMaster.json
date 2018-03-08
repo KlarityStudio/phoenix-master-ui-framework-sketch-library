@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 12540,
+  "changeIdentifier": 44523,
   "do_objectID": "B8A1BB3B-8502-48B2-A650-6929F0651843",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,9 +48,10 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -63,11 +64,22 @@
     {
       "class": "bitmap",
       "id": "380054B4-7E95-48FB-8C99-27630ABABF8E"
+    },
+    {
+      "class": "group",
+      "id": "7F785DA7-BFB1-4F1D-9FDE-1F2FCF32A051"
     }
   ],
   "name": "Widget/Booking/State/Start1",
   "nameIsFixed": true,
   "originalObjectID": "B8A1BB3B-8502-48B2-A650-6929F0651843",
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

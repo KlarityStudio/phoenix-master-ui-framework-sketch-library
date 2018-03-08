@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 15351,
+  "changeIdentifier": 15390,
   "do_objectID": "8C7E6DDA-5842-4942-B266-44F4F6CC6C52",
   "exportOptions": {
     "_class": "exportOptions",
@@ -48,9 +48,10 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -68,6 +69,13 @@
   "name": "Widget/Booking/State/Location4",
   "nameIsFixed": true,
   "originalObjectID": "8C7E6DDA-5842-4942-B266-44F4F6CC6C52",
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone X",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
