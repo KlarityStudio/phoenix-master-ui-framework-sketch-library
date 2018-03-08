@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "6DDFAF82-04EB-44C5-96BF-70C496CE67DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 421,
+    "width": 315,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SmartComponents/SearchResultVehicle/Item-3col-with-sidebar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "1176356F-2106-4BCB-B95C-DB1F1F988372_symbolID",
+      "value": "F7556123-9F66-4117-82F8-4937A1C5A838"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "01D8C46E-7F28-4EA6-9609-B645B5BE16E0_stringValue",
+      "value": "Mercedes-Benz C-Class"
+    }
+  ],
+  "overrides": {
+    "01D8C46E-7F28-4EA6-9609-B645B5BE16E0": "Mercedes-Benz C-Class",
+    "1176356F-2106-4BCB-B95C-DB1F1F988372": {
+      "symbolID": "F7556123-9F66-4117-82F8-4937A1C5A838"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "519F10D1-42E6-4FFE-BEE4-3DF87FA33DA1",
+  "verticalSpacing": 0
+}

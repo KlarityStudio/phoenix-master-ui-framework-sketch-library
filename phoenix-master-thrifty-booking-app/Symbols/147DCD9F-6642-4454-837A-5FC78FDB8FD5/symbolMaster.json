@@ -1,0 +1,92 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 50,
+  "do_objectID": "147DCD9F-6642-4454-837A-5FC78FDB8FD5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 80,
+    "width": 375,
+    "x": 3973,
+    "y": 431
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "EAB17491-2572-47B5-84DA-73F902DC6103"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "853A73B5-EB77-4812-ADE3-AABBBDB89A50"
+    },
+    {
+      "class": "text",
+      "id": "8B368DDF-0C8B-4AD3-9012-AA2A367F3295"
+    },
+    {
+      "class": "text",
+      "id": "FDBCBD43-A3FC-4DC0-A353-736BAB8975A5"
+    },
+    {
+      "class": "text",
+      "id": "CADA5FDE-6E8F-45D5-94ED-B65FA7BFB82E"
+    },
+    {
+      "class": "group",
+      "id": "F2F573EB-858E-47B0-8E88-C8368E0ABED1"
+    }
+  ],
+  "name": "SmartComponents/Booking summary edit bar",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FC949975-4D21-4766-9FEF-F138F2D7B2BE",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

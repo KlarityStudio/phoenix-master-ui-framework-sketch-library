@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A72DA6D3-91C5-40D7-94DB-A5CD56B07758",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 313,
+    "x": 1,
+    "y": 370
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Large/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "05940132-D0F8-4B09-A836-635D55CA1362",
+      "overrideName": "4A10BAE2-EEC7-43FA-A355-0475D033B814_symbolID",
+      "value": "08AD1299-99DB-4A8D-B68D-5BDF63E4FD14"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "10FE14EA-FA03-4021-9128-0901900648AF",
+      "overrideName": "68BFC553-4E62-441F-A698-22951307509F/6E8CD8DA-6233-4105-8C3D-6D8A1FA11165_stringValue",
+      "value": "BOOK THIS CAR"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A7357AA-7E6E-451A-B03E-47F306C9ADD1",
+      "overrideName": "68BFC553-4E62-441F-A698-22951307509F/9CA2DF01-D88A-409A-9BD7-B38C16374C40_stringValue",
+      "value": "SELECT THIS VEHICLE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AB53F1DB-D074-4E70-87BB-E1A38F8AC802",
+      "overrideName": "68BFC553-4E62-441F-A698-22951307509F/A6C4D26A-1D42-43B0-B0B2-EF30CC9CF589_stringValue",
+      "value": "SELECT THIS VEHICLE"
+    }
+  ],
+  "overrides": {
+    "4A10BAE2-EEC7-43FA-A355-0475D033B814": {
+      "symbolID": "08AD1299-99DB-4A8D-B68D-5BDF63E4FD14"
+    },
+    "68BFC553-4E62-441F-A698-22951307509F": {
+      "6E8CD8DA-6233-4105-8C3D-6D8A1FA11165": "BOOK THIS CAR",
+      "9CA2DF01-D88A-409A-9BD7-B38C16374C40": "SELECT THIS VEHICLE",
+      "A6C4D26A-1D42-43B0-B0B2-EF30CC9CF589": "SELECT THIS VEHICLE"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C86834CD-B82C-4A19-97BC-5F4E36026E5A",
+  "verticalSpacing": 0
+}

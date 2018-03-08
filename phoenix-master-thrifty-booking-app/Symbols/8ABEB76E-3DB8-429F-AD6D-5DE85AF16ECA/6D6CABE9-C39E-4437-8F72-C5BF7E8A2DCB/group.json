@@ -1,0 +1,52 @@
+{
+  "_class": "group",
+  "do_objectID": "6D6CABE9-C39E-4437-8F72-C5BF7E8A2DCB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FBE69074-AD6B-4236-82B0-638B3D607CD8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6E9D6CE0-DBF3-41FD-A7E7-6AC577ED9EAA",
+    "height": 80,
+    "width": 80,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A931B1C1-1F7B-4BEE-B43E-427D05A1C592"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDA330CA-173C-4DBE-881E-64E181EED6A6"
+    }
+  ],
+  "name": "Components/ManageSidebar/Item-Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3E72B87F-517E-474E-8610-35B5510F5330",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

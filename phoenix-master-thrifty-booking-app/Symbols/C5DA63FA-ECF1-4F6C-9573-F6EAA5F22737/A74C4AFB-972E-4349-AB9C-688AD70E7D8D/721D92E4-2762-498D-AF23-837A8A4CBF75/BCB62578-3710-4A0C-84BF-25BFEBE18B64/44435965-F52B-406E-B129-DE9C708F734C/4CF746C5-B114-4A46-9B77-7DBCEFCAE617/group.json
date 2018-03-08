@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "4CF746C5-B114-4A46-9B77-7DBCEFCAE617",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4D67151E-23E6-4D8B-9AA2-08D2F77D14A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E90281B-6282-490D-B7E2-4EF9132DA76D",
+    "height": 134,
+    "width": 85,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "72CDC997-C372-470D-9DF5-1FC163DBF45E"
+    },
+    {
+      "class": "text",
+      "id": "D496DD56-C18A-4230-9EEC-525711B27F70"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7ADDBAF7-C5E1-4E3A-BA75-CFED33689083"
+    },
+    {
+      "class": "text",
+      "id": "093B1364-0F0D-4FB7-BAC0-1DD3C9E817D1"
+    }
+  ],
+  "name": "Group 19",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0FEDD49F-DC13-42E4-B94A-944D718FA9CF",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "3F03F538-2AE2-4E37-946B-884DC2134876",
+      "transition": 6
+    }
+  }
+}

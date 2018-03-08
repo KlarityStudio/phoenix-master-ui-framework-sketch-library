@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "do_objectID": "9EB35049-D797-447B-989B-98F45FEC3153",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA694812-7B0B-4526-998A-927125F215F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1B7752B-C44C-4311-AD64-ABBBF625BC46",
+    "height": 134,
+    "width": 80,
+    "x": 186,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "653582C1-EBC5-444C-8CCA-531B883F9B30"
+    },
+    {
+      "class": "text",
+      "id": "ECB5E115-C257-4520-81B5-18E0B7BD9EC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "583328FE-D3A6-4AC3-9D1B-D1E09E08454D"
+    },
+    {
+      "class": "text",
+      "id": "9815EC84-6DE4-4ED5-B9B1-5A770D7EF778"
+    }
+  ],
+  "name": "Group 19",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7B7D3B50-5618-44D8-A855-091E20DD5F4E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "0997F95F-2243-43DF-B735-38B5E9F0923E",
+      "transition": 6
+    }
+  }
+}

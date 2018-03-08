@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "96D3970D-1E7A-4F2E-ADD3-7EC5E0DDB1CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 313,
+    "x": 1,
+    "y": 460
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button/Large/Default",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4A10BAE2-EEC7-43FA-A355-0475D033B814_symbolID",
+      "value": "A8796FD8-C5F6-48FC-AE23-D34A652FE6A9"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68BFC553-4E62-441F-A698-22951307509F/6E8CD8DA-6233-4105-8C3D-6D8A1FA11165_stringValue",
+      "value": "BOOK THIS CAR"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68BFC553-4E62-441F-A698-22951307509F/9CA2DF01-D88A-409A-9BD7-B38C16374C40_stringValue",
+      "value": "       CONFIGURE THIS VEHICLE"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68BFC553-4E62-441F-A698-22951307509F/A6C4D26A-1D42-43B0-B0B2-EF30CC9CF589_stringValue",
+      "value": "        FROM R12,212 - CONFIGURE PRICING"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "68BFC553-4E62-441F-A698-22951307509F_symbolID",
+      "value": "9FD8EB4F-34BB-4A56-90FC-4C5649AA3DC3"
+    }
+  ],
+  "overrides": {
+    "4A10BAE2-EEC7-43FA-A355-0475D033B814": {
+      "symbolID": "A8796FD8-C5F6-48FC-AE23-D34A652FE6A9"
+    },
+    "68BFC553-4E62-441F-A698-22951307509F": {
+      "6E8CD8DA-6233-4105-8C3D-6D8A1FA11165": "BOOK THIS CAR",
+      "9CA2DF01-D88A-409A-9BD7-B38C16374C40": "       CONFIGURE THIS VEHICLE",
+      "A6C4D26A-1D42-43B0-B0B2-EF30CC9CF589": "        FROM R12,212 - CONFIGURE PRICING",
+      "symbolID": "9FD8EB4F-34BB-4A56-90FC-4C5649AA3DC3"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C86834CD-B82C-4A19-97BC-5F4E36026E5A",
+  "verticalSpacing": 0
+}
