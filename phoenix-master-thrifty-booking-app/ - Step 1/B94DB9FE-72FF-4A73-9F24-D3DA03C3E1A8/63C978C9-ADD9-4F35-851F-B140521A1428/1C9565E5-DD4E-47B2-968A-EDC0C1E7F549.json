@@ -27,8 +27,28 @@
   "name": "SmartComponents/SearchResultVehicle/Item-3col-with-sidebar",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FC9BA80D-104B-4CE4-92ED-2C47142E0830",
+      "overrideName": "A72DA6D3-91C5-40D7-94DB-A5CD56B07758/4A10BAE2-EEC7-43FA-A355-0475D033B814_symbolID",
+      "value": "A8796FD8-C5F6-48FC-AE23-D34A652FE6A9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4A420B18-A2B3-48BC-B8EF-76FDF5327631",
+      "overrideName": "A72DA6D3-91C5-40D7-94DB-A5CD56B07758/68BFC553-4E62-441F-A698-22951307509F_symbolID",
+      "value": "9FD8EB4F-34BB-4A56-90FC-4C5649AA3DC3"
+    }
   ],
   "overrides": {
+    "A72DA6D3-91C5-40D7-94DB-A5CD56B07758": {
+      "4A10BAE2-EEC7-43FA-A355-0475D033B814": {
+        "symbolID": "A8796FD8-C5F6-48FC-AE23-D34A652FE6A9"
+      },
+      "68BFC553-4E62-441F-A698-22951307509F": {
+        "symbolID": "9FD8EB4F-34BB-4A56-90FC-4C5649AA3DC3"
+      }
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

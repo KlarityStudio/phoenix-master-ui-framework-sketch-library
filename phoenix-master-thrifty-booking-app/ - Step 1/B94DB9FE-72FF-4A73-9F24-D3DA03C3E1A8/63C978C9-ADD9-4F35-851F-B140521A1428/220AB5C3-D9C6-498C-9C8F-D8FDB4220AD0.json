@@ -38,13 +38,33 @@
       "do_objectID": "88B6598B-EC92-45C1-B4EC-AB3B872DDDD7",
       "overrideName": "775A89AF-4C54-4BF0-BD8D-C4246CF16DDB_stringValue",
       "value": "Mercedes-Benz C-Class"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BB0BE2C-FAE4-4104-ABFA-C14941C83007",
+      "overrideName": "A72DA6D3-91C5-40D7-94DB-A5CD56B07758/4A10BAE2-EEC7-43FA-A355-0475D033B814_symbolID",
+      "value": "A8796FD8-C5F6-48FC-AE23-D34A652FE6A9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F55FD905-16CA-4304-9860-2670142A91BB",
+      "overrideName": "A72DA6D3-91C5-40D7-94DB-A5CD56B07758/68BFC553-4E62-441F-A698-22951307509F_symbolID",
+      "value": "9FD8EB4F-34BB-4A56-90FC-4C5649AA3DC3"
     }
   ],
   "overrides": {
     "36F320F9-87F1-4E7A-8559-B57C8498AA00": {
       "symbolID": "F7556123-9F66-4117-82F8-4937A1C5A838"
     },
-    "775A89AF-4C54-4BF0-BD8D-C4246CF16DDB": "Mercedes-Benz C-Class"
+    "775A89AF-4C54-4BF0-BD8D-C4246CF16DDB": "Mercedes-Benz C-Class",
+    "A72DA6D3-91C5-40D7-94DB-A5CD56B07758": {
+      "4A10BAE2-EEC7-43FA-A355-0475D033B814": {
+        "symbolID": "A8796FD8-C5F6-48FC-AE23-D34A652FE6A9"
+      },
+      "68BFC553-4E62-441F-A698-22951307509F": {
+        "symbolID": "9FD8EB4F-34BB-4A56-90FC-4C5649AA3DC3"
+      }
+    }
   },
   "resizingConstraint": 63,
   "resizingType": 0,

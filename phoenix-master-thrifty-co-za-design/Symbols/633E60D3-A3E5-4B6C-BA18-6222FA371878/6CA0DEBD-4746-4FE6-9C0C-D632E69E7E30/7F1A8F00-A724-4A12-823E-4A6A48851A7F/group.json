@@ -13,7 +13,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
+    "height": 170,
     "width": 377,
     "x": 1,
     "y": 0
@@ -23,31 +23,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "symbolInstance",
-      "id": "7883B875-E47D-42C3-8787-D3965A8DACA9"
+      "class": "group",
+      "id": "951EC1EE-7667-4F1D-80A8-DDA50FEDB095"
     },
     {
       "class": "symbolInstance",
       "id": "BDDE5D2E-6698-4728-86A5-3360AD267DE5"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D96D701C-539B-4A9B-B4EA-74D19ABC0D83"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BF7FCA5A-F501-4B33-ACF8-C1E36DA4D2E1"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3B3169E5-A56B-461F-AB55-ED31FFEA7594"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "120F1DDD-4DBD-43B8-B88E-6BFE18A2098D"
     }
   ],
   "name": "Search & Close",
