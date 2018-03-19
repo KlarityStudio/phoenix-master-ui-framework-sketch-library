@@ -1,0 +1,60 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "C08098D4-B595-4A81-BA15-2B65774799E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 154,
+    "x": 765,
+    "y": 80
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ChildComponents/FilterTypeItem",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "FE016E81-04D1-422C-B3FF-BA6AEBFE18F9_symbolID",
+      "value": "A1B31CA2-02FF-49C3-B6C6-D9D06492C750"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "37A6ED10-924D-417D-BC26-19F92117C7E2_stringValue",
+      "value": "VANS"
+    }
+  ],
+  "overrides": {
+    "37A6ED10-924D-417D-BC26-19F92117C7E2": "VANS",
+    "FE016E81-04D1-422C-B3FF-BA6AEBFE18F9": {
+      "symbolID": "A1B31CA2-02FF-49C3-B6C6-D9D06492C750"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "66D1FE8C-07FF-4D2C-AAB4-B99DE0B95D0B",
+  "verticalSpacing": 0
+}

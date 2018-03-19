@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "63525360-95B5-4330-B25E-5BE7897126F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D915DCAE-7D15-414C-A757-183FFF8CB2F6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C308125-971A-4C4F-A37B-4EF5A95BD31C",
+    "height": 70,
+    "width": 1065,
+    "x": 0,
+    "y": 310
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SimpleComponents/BookingStepsTitleBar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39316802-BD36-415F-91E5-348FB7A1B59A",
+      "overrideName": "D2B34061-631C-4DEA-8B6C-B45CA721956F_stringValue",
+      "value": "DRIVERS INFORMATION"
+    }
+  ],
+  "overrides": {
+    "D2B34061-631C-4DEA-8B6C-B45CA721956F": "DRIVERS INFORMATION"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEB4E911-7B61-4112-A647-4920CC4497EA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "C395CA49-5FCB-455F-AB5A-5BB9F2B22AE0",
+  "verticalSpacing": 0
+}

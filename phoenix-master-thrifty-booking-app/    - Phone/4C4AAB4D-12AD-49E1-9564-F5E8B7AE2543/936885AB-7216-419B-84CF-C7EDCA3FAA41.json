@@ -1,0 +1,87 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "936885AB-7216-419B-84CF-C7EDCA3FAA41",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "876C7C15-19ED-4003-B25D-DFDAC467F1A7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0A7EE2F3-2AC6-4B00-AA22-BB9F8B35114F",
+    "height": 421,
+    "width": 315,
+    "x": 23,
+    "y": 190
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SmartComponents/SearchResultVehicle/Item-3col-with-sidebar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0C1F132-3E6B-41F3-9A05-106AF8A06E1F",
+      "overrideName": "36F320F9-87F1-4E7A-8559-B57C8498AA00_symbolID",
+      "value": "F7556123-9F66-4117-82F8-4937A1C5A838"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2BDDE38-0D40-413B-B994-D137D1905A45",
+      "overrideName": "775A89AF-4C54-4BF0-BD8D-C4246CF16DDB_stringValue",
+      "value": "Mercedes-Benz C-Class"
+    }
+  ],
+  "overrides": {
+    "36F320F9-87F1-4E7A-8559-B57C8498AA00": {
+      "symbolID": "F7556123-9F66-4117-82F8-4937A1C5A838"
+    },
+    "775A89AF-4C54-4BF0-BD8D-C4246CF16DDB": "Mercedes-Benz C-Class"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E867934E-A99F-4F28-BF89-E949759A5A04",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 74,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 60
+      }
+    ],
+    "startDecorationType": 0
+  },
+  "symbolID": "4D83E190-175C-461F-8F97-371BDAB0D40E",
+  "verticalSpacing": 0
+}

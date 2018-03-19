@@ -1,0 +1,88 @@
+{
+  "_class": "group",
+  "do_objectID": "4C8EA356-2E39-47FB-B64D-C814849A8C95",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D57A9C97-2BFF-4C3B-89FA-85F1BE120B27",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C4D32F66-2DED-4DE9-8775-E9E44726A751",
+    "height": 118,
+    "width": 80,
+    "x": 670,
+    "y": 80
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0DD36552-20F9-472C-9458-8EE0FF64FE75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "26723E4A-3AFD-45C8-B318-A7AB6D49169D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11C934F2-6129-4C20-949C-E26293B9BA96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "328C06FE-621C-445B-9640-FF5E29241496"
+    }
+  ],
+  "name": "arrows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5D600708-0A19-4447-AD52-F70F07BAE4DB",
+      "opacity": 0.9599999785423279
+    },
+    "do_objectID": "F6B1A23F-00FD-48A0-AB6D-D41442309E6D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 12,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": -5,
+        "offsetY": -15,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}
