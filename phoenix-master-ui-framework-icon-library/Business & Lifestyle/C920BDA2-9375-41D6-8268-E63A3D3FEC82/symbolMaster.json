@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "C920BDA2-9375-41D6-8268-E63A3D3FEC82",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "66B3270D-9703-41AD-940B-5CF0BFE026F6"
     },
     {
-      "class": "symbolInstance",
-      "id": "0CFA233A-8527-4AD3-95A9-453BB6A064B3"
+      "class": "group",
+      "id": "2D36A5C9-4ACF-492B-B11C-4DCF67DC3458"
     }
   ],
   "name": "image",

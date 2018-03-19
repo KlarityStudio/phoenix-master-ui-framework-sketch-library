@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "C2574BB3-7775-47D4-ACF6-9CE28F213E3F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "52E2DAEF-4C36-406B-AFB8-A0671F76395C"
     },
     {
-      "class": "symbolInstance",
-      "id": "FFA532B7-6D3E-4FDD-A43A-A466A463EAA4"
+      "class": "group",
+      "id": "B114DA4C-4A8E-4356-869C-BE6688BA00F7"
     }
   ],
   "name": "microphone",

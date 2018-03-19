@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "54676A9E-346D-408F-94C5-AFFB8E0C0DCB",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "29366E02-0009-41F5-885F-102EFA3B7604"
     },
     {
-      "class": "symbolInstance",
-      "id": "A8466168-E354-467C-9E77-26450A8919D2"
+      "class": "group",
+      "id": "903D8DD8-3367-464E-9063-117C7B6D6839"
     }
   ],
   "name": "zoom_in",

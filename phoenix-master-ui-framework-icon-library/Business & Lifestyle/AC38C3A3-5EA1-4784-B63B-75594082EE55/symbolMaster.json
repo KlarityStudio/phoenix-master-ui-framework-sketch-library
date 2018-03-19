@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "AC38C3A3-5EA1-4784-B63B-75594082EE55",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "A1EFFE0A-168A-4953-9D48-1A199E81E00C"
     },
     {
-      "class": "symbolInstance",
-      "id": "1D0FF3F7-2BBD-4A8F-9599-DEF30C85D85A"
+      "class": "group",
+      "id": "A0EC0486-7912-48D6-8D09-CA1FF2FF18D7"
     }
   ],
   "name": "battery_full",

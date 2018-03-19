@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "CB13BEFE-9D3F-4373-91FE-8ED33AD9CE1C",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "A58142FC-E27D-4D6D-ACA5-EBD3BF2A5562"
     },
     {
-      "class": "symbolInstance",
-      "id": "674DDE4C-D813-4EC5-8719-FB7811AB91F8"
+      "class": "group",
+      "id": "FBDB087B-29DE-4B38-A582-C585390CA801"
     }
   ],
   "name": "battery",

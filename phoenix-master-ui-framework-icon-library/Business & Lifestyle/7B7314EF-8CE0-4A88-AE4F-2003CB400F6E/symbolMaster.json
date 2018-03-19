@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "7B7314EF-8CE0-4A88-AE4F-2003CB400F6E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "F554B244-30DE-439F-B196-F14B7E09C7DE"
     },
     {
-      "class": "symbolInstance",
-      "id": "48B1E124-5E35-41DD-A1FD-68C70F9B14F5"
+      "class": "group",
+      "id": "1F86BBA4-E527-4511-810B-E69834A0DAE4"
     }
   ],
   "name": "call_incoming",

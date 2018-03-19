@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "107852ED-5F6C-4CEA-AC73-EA7B041FA862",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "78DB50E1-25EF-4444-B735-12AA1625645E"
     },
     {
-      "class": "symbolInstance",
-      "id": "D947CFDA-FA68-4F32-9747-09A9EC6B7FE9"
+      "class": "group",
+      "id": "AE5AADED-8001-4A3D-81E0-D266CC49FA81"
     }
   ],
   "name": "battery_average",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "6B937CE9-F93D-4B1C-86E0-85D5ED28B054",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "9CD10A1B-6A92-4C61-ADF4-394CEF03375E"
     },
     {
-      "class": "symbolInstance",
-      "id": "1E0632E8-1DFC-489A-B434-1CD89335171D"
+      "class": "group",
+      "id": "5C8AA907-3E1C-4412-BE4A-6548A8A496C0"
     }
   ],
   "name": "compasses",

@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1788,
-    "width": 1493,
-    "x": -53,
+    "width": 1441,
+    "x": -1,
     "y": 0
   },
   "hasClickThrough": false,
@@ -23,7 +23,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "symbolInstance",
@@ -38,16 +38,12 @@
       "id": "4C07C343-5E20-4857-9FF8-0FD42789CF1F"
     },
     {
-      "class": "group",
-      "id": "30262B24-3638-4305-B3F4-59D042403810"
-    },
-    {
-      "class": "group",
-      "id": "BB2F1AA9-B031-4FA4-B157-B0F3321E1621"
+      "class": "shapeGroup",
+      "id": "0AACEAD9-2B01-447B-8F42-19DA4EBE4B99"
     }
   ],
-  "name": "Group",
-  "nameIsFixed": false,
+  "name": "Frame",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

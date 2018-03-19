@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "02E76513-BAE0-4C45-BAA4-82513C752553",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "7656FB41-772C-4AEC-ABB4-741EDB4EEE74"
     },
     {
-      "class": "symbolInstance",
-      "id": "DC9A86C2-89A4-4479-B4C1-2C6067A849A4"
+      "class": "group",
+      "id": "6608661B-7B6B-4671-B25F-CF01DCA5728E"
     }
   ],
   "name": "mail_outbox",

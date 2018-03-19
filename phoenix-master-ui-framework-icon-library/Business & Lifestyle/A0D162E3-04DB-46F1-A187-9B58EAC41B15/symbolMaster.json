@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "A0D162E3-04DB-46F1-A187-9B58EAC41B15",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "EF4E98A6-A074-445D-85AD-E049818F63DF"
     },
     {
-      "class": "symbolInstance",
-      "id": "46FC0B61-43B6-48CA-A3C6-502B1185F545"
+      "class": "group",
+      "id": "E084670C-150F-4822-8459-E1D39E2ACF16"
     }
   ],
   "name": "film",

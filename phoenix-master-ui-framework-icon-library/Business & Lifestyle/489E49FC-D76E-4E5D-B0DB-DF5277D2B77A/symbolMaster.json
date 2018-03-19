@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "489E49FC-D76E-4E5D-B0DB-DF5277D2B77A",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "B278A64A-49D7-434C-9F70-956ED123515D"
     },
     {
-      "class": "symbolInstance",
-      "id": "2338398F-852B-4C80-A858-2EC69325D143"
+      "class": "group",
+      "id": "1E280E29-E1C4-40A6-997C-5AA24284F478"
     }
   ],
   "name": "bulb_1",

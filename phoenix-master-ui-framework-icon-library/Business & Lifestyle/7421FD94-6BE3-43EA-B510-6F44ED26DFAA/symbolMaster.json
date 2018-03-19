@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "7421FD94-6BE3-43EA-B510-6F44ED26DFAA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "A3C272C8-E5D3-4AA6-AD00-D47241BF7984"
     },
     {
-      "class": "symbolInstance",
-      "id": "54EE5FBF-4026-4DC5-A175-D49F3B0677DA"
+      "class": "group",
+      "id": "F4D371D9-A895-4DF5-B863-DDF146CCFD15"
     }
   ],
   "name": "calculator",

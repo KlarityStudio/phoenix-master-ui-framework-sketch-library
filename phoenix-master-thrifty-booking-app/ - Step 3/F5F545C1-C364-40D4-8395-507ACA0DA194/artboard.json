@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 900,
+    "height": 1972,
     "width": 1440,
     "x": -570,
     "y": -362
@@ -40,8 +40,16 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C1850790-250B-463D-B1CD-BB6DBDD4C5AF"
+    },
+    {
+      "class": "group",
+      "id": "357F5E71-52ED-463F-B568-9BCA8C56D576"
+    },
     {
       "class": "symbolInstance",
       "id": "1306DF9B-911E-42B5-8C9B-89A26399A19F"
@@ -57,10 +65,58 @@
     {
       "class": "group",
       "id": "8832FC12-3302-4DB4-A483-A44CCE80218A"
+    },
+    {
+      "class": "group",
+      "id": "34FA3E5C-A4DD-449C-A65D-6A68E2418CB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "63525360-95B5-4330-B25E-5BE7897126F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0A3F1F06-7AE3-47CD-9310-A82CA9B36C98"
+    },
+    {
+      "class": "group",
+      "id": "5C2299C2-5D44-4FC3-8222-1C62EDA383F4"
+    },
+    {
+      "class": "group",
+      "id": "177DF583-D225-47BF-8346-FC6B47D62DEE"
+    },
+    {
+      "class": "group",
+      "id": "6A3EEC70-E812-48C5-A0A5-00CFDD2934BD"
+    },
+    {
+      "class": "group",
+      "id": "0C2513DB-BA30-45B0-9A3D-BD63736844C4"
+    },
+    {
+      "class": "group",
+      "id": "44D1004E-C12A-40E6-8FEC-7B0D38213B5F"
+    },
+    {
+      "class": "group",
+      "id": "956D348A-289F-4CE9-A14B-9BBF7A43B15B"
+    },
+    {
+      "class": "group",
+      "id": "BD278274-D4D5-490B-BDDD-9B28A8FE5EF2"
+    },
+    {
+      "class": "group",
+      "id": "038AAB84-A0C8-40E5-B7DA-979E8A26EF2C"
+    },
+    {
+      "class": "group",
+      "id": "F2B89A4F-992C-488A-9AAA-0E1CBCCA2FB3"
     }
   ],
-  "name": "Desktop HD",
-  "nameIsFixed": false,
+  "name": "3) Confirm & Pay",
+  "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
     "height": 1024,

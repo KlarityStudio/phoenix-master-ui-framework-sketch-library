@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "5C4719CF-974B-44E6-AFD7-DD730F86AF4E",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "DE29CF6A-93D8-424E-BF3F-FCDFEE166B17"
     },
     {
-      "class": "symbolInstance",
-      "id": "A1DE70F6-11D7-4CA0-807A-91EB8A307175"
+      "class": "group",
+      "id": "AE440A3C-5CDC-4B80-BC2D-325D76596C01"
     }
   ],
   "name": "lifebuoy",

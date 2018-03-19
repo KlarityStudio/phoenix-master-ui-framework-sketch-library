@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "E1D2F891-6A74-44D7-BA5B-3B53A6B25E8B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "5E480320-4385-4407-94FC-3D208369EAC3"
     },
     {
-      "class": "symbolInstance",
-      "id": "FD09382A-97F0-43D9-804E-888A9FE31E5B"
+      "class": "group",
+      "id": "A9A6CCB2-7E41-4D02-B984-A42FE19C7DBA"
     }
   ],
   "name": "browser",

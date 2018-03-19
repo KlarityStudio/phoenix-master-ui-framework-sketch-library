@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "69382084-F3E8-450B-B447-E92C5F43CDF9",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "5E23DB75-5557-4615-8D1F-7FE1696CEFC4"
     },
     {
-      "class": "symbolInstance",
-      "id": "E28851F8-B53C-4248-A78F-D960833378DE"
+      "class": "group",
+      "id": "DAE80144-F375-4832-A7D6-D1234C0030B3"
     }
   ],
   "name": "calendar_date",

@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "E4FE64C5-A29F-4C3E-864F-BCA2C2C90237",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "06F47EA0-F409-4F78-8662-F60CFF7B0724"
     },
     {
-      "class": "symbolInstance",
-      "id": "700EB88C-833C-4F59-924F-AC92941CD0FF"
+      "class": "group",
+      "id": "B004B972-D0D1-40EC-881B-2824C169BB5E"
     }
   ],
   "name": "school_bus",

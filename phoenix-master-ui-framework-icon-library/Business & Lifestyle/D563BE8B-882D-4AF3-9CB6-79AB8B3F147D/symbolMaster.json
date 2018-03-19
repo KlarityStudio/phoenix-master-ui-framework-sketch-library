@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "D563BE8B-882D-4AF3-9CB6-79AB8B3F147D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "4AABD7BA-3BB4-467F-B4B3-DB6014D2BE91"
     },
     {
-      "class": "symbolInstance",
-      "id": "54B78B41-D1B1-405C-9F68-0260E09BC734"
+      "class": "group",
+      "id": "6A7E47E0-2A6D-4FB1-88F2-0AF91EF9242E"
     }
   ],
   "name": "click",

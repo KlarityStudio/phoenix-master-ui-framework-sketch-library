@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "6D583C1B-4142-4E57-ACB4-DC1A6FAB8062",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "5F8137CD-32D1-446A-9822-CE494358D6AD"
     },
     {
-      "class": "symbolInstance",
-      "id": "7ACC75AF-94CE-4A01-804C-A4BAF5119343"
+      "class": "group",
+      "id": "5EEF5A1F-3654-4A83-B698-A6AC26280D65"
     }
   ],
   "name": "lock",

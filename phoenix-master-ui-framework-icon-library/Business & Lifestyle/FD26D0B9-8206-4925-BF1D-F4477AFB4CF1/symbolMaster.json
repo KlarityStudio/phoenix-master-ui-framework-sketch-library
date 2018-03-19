@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "FD26D0B9-8206-4925-BF1D-F4477AFB4CF1",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "F67AB176-05C5-439E-9963-521CCD83C71D"
     },
     {
-      "class": "symbolInstance",
-      "id": "56BDF5E4-FCD7-4E6D-81E2-DC22423512A2"
+      "class": "group",
+      "id": "E61D6134-D1C2-440D-A960-56EA38EF2AB3"
     }
   ],
   "name": "price_tag",

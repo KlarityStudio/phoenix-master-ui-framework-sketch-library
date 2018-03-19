@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "1E68721C-909E-4F27-AAF0-3BB3AFC81CCA",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "02864773-6728-47C7-95E3-EF63D9F0C221"
     },
     {
-      "class": "symbolInstance",
-      "id": "6109DCE8-D2E6-43F6-BF6B-130A4A4228FD"
+      "class": "group",
+      "id": "B06EDB43-222A-4A6E-933E-9D01D86DC001"
     }
   ],
   "name": "circle_down",

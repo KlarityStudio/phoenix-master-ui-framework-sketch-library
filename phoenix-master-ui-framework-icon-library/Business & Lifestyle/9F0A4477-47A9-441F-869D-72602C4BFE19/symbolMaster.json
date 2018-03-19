@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "9F0A4477-47A9-441F-869D-72602C4BFE19",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "4B793EAC-FC28-4BA4-B703-F627B95DF173"
     },
     {
-      "class": "symbolInstance",
-      "id": "47490F74-EFE3-4DC4-BC68-09AE7B15B5F5"
+      "class": "group",
+      "id": "0395854C-D67B-4016-B6B0-0EE77E5CAAC2"
     }
   ],
   "name": "battery_low",

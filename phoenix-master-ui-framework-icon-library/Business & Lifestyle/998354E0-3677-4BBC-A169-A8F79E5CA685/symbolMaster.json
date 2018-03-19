@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "998354E0-3677-4BBC-A169-A8F79E5CA685",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "2602D3D6-D2DC-4ED4-8437-880B1D205E8C"
     },
     {
-      "class": "symbolInstance",
-      "id": "F5E69E04-A847-4B2F-B625-25C0B4CC98D9"
+      "class": "group",
+      "id": "D3CD8AC1-F6EA-40FA-905F-40884B367305"
     }
   ],
   "name": "controller",

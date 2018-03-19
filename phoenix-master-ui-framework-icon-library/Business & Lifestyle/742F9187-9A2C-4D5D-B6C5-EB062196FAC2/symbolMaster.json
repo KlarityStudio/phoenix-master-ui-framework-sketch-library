@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "742F9187-9A2C-4D5D-B6C5-EB062196FAC2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "0F0F8920-0C5C-4069-A38C-EFDB02A9B8E2"
     },
     {
-      "class": "symbolInstance",
-      "id": "2B0C740E-AA2E-40D4-855D-92085CD6B9BB"
+      "class": "group",
+      "id": "6809DFCE-F6F0-44B7-94B9-72FFC91841BB"
     }
   ],
   "name": "network",

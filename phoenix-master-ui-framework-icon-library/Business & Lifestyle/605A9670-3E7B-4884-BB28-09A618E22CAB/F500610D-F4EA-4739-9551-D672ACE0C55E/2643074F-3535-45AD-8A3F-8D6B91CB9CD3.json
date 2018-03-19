@@ -20,6 +20,7 @@
     "x": 1.166618057580934,
     "y": 1.124982422149654
   },
+  "isClosed": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -94,6 +95,69 @@
       }
     ]
   },
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.051470588235294129}",
+      "curveMode": 4,
+      "curveTo": "{0.00040000000000048883, 0.11491268382352945}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{0.00040000000000048883, 0.11491268382352945}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 4,
+      "curveTo": "{0.44800000000000006, 2.2977941176478265e-05}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.63000000000000012, 0.96511948529411762}",
+      "curveMode": 4,
+      "curveTo": "{1, 0.96509650735294117}",
+      "hasCurveFrom": true,
+      "hasCurveTo": false,
+      "point": "{1, 0.96509650735294117}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 4,
+      "curveTo": "{0.28599999999999992, 0.97798713235294121}",
+      "hasCurveFrom": false,
+      "hasCurveTo": true,
+      "point": "{0, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0.11491268382352941}",
+      "curveMode": 1,
+      "curveTo": "{0, 0.11491268382352941}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0.11491268382352941}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.00039999999999995595, 0.11491268382352941}",
+      "curveMode": 1,
+      "curveTo": "{0.00039999999999995595, 0.11491268382352941}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.00039999999999995595, 0.11491268382352941}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

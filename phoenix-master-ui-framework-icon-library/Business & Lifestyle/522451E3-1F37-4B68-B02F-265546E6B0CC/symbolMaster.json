@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "522451E3-1F37-4B68-B02F-265546E6B0CC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "2F02B8DB-0545-488E-845D-7F4232FA08A8"
     },
     {
-      "class": "symbolInstance",
-      "id": "092FA72B-502B-449F-BD6C-D1A28FC4A04E"
+      "class": "group",
+      "id": "EB8FB566-5C4D-4059-BFFA-7788BFAB7E3D"
     }
   ],
   "name": "printer_error",

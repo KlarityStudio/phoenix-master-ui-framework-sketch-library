@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "changeIdentifier": 0,
+  "changeIdentifier": 8,
   "do_objectID": "9148436B-B2C2-41D1-A563-3EEA74290C3B",
   "exportOptions": {
     "_class": "exportOptions",
@@ -39,6 +39,7 @@
   "includeInCloudUpload": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
@@ -48,8 +49,8 @@
       "id": "3E1C4982-0CB4-446C-AF6C-3CA7F1FE1428"
     },
     {
-      "class": "symbolInstance",
-      "id": "B9F99C19-8A97-4236-BBDE-9F1F8427ACED"
+      "class": "group",
+      "id": "E439A78B-BE3C-4D61-9E6D-A77B230CE3EF"
     }
   ],
   "name": "calendar",
