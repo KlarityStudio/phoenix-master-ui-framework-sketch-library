@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "EED6B804-2E8E-4E2B-9367-F54BCF625F1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1E14732-0C83-45FB-9DFE-1AA6085A8A64",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8DAD73B-4E90-4991-9EE9-ED4FED674114",
+    "height": 70,
+    "width": 1064,
+    "x": -646,
+    "y": -772
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "69612DC5-F0EF-4F89-9BC3-16A02C8221DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B7BE36CD-7D73-4FC7-8A4C-AB75B8E711F0"
+    },
+    {
+      "class": "text",
+      "id": "C2682D34-62CD-4421-83F7-8A7AFF991032"
+    }
+  ],
+  "name": "SimpleComponents/Notification",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CB011777-54C4-4EF5-B827-10A6E5864905",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
