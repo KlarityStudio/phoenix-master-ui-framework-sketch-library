@@ -1,6 +1,7 @@
 {
-  "_class": "group",
-  "do_objectID": "9DABD0D3-0C39-40A1-863B-F214DA225EBE",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "A33D6491-C1F2-4D74-9C9B-D918AAA4F540",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,27 +11,26 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 300,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "constrainProportions": true,
+    "height": 3937,
+    "width": 1440,
+    "x": 1700,
+    "y": -894
   },
-  "hasClickThrough": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/3390821bae1e66f14b494f60a6cdb3ce09fa99a9",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "6401D82A-61E3-47AB-9F33-D1F38611C192"
-    }
-  ],
-  "name": "UI/Border/Sharp/1px - 10%Black",
+  "name": "hl_billing_modals",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

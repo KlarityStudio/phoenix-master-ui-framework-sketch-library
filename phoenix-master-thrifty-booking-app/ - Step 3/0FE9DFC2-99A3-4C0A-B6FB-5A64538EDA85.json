@@ -1,6 +1,7 @@
 {
-  "_class": "symbolInstance",
-  "do_objectID": "0F53A1BD-5334-48A4-A31B-1E15359AC532",
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "0FE9DFC2-99A3-4C0A-B6FB-5A64538EDA85",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -10,37 +11,35 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 263,
-    "width": 341,
-    "x": 19,
-    "y": 36
+    "constrainProportions": true,
+    "height": 1293,
+    "width": 1440,
+    "x": 1021,
+    "y": 476
   },
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/11ac05d71276310113a6e6b3f6153421c9cbc403",
+    "_ref_class": "MSImageData"
+  },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "UI/BoxShadow/Default",
+  "name": "hl_billing",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
-  "overrides": {
-  },
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "symbolID": "09F2AD1F-4CCF-4A64-8482-5978A2C7DF25",
-  "verticalSpacing": 0
+  }
 }
